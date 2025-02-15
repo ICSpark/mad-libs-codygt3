@@ -31,7 +31,7 @@ Inside that div tag create 3 other div tags with class category. These will repr
         <!-- Implement in Step 2 -->  
     </div>
 
-    <div class="category">
+    <div class="category">fdfd
         <!-- Implement in Step 3 -->  
     </div>
   
